@@ -6,8 +6,8 @@ A simple implementation of the k-nearest neighbors (KNN) algorithm without using
 
 ## English Version
 
-For English, please see [README-en.md](README-en.md).
+For English, please see [README-en.md](https://github.com/RayVilaca/vanilla-knn/blob/main/README-en.md).
 
 ## Versão em Português
 
-Para português, veja [README-pt.md](README-pt.md).
+Para português, veja [README-pt.md](https://github.com/RayVilaca/vanilla-knn/blob/main/README-pt.md).
