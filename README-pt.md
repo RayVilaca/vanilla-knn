@@ -1,6 +1,6 @@
 # vanilla-knn
 
-<!-- [![PyPI version](https://badge.fury.io/py/vanilla-knn.svg)](https://badge.fury.io/py/vanilla-knn) -->
+[![PyPI version](https://badge.fury.io/py/vanilla-knn.svg)](https://badge.fury.io/py/vanilla-knn)
 
 Uma implementação simples do algoritmo k-Nearest Neighbors (KNN) com distância euclidiana sem utilização de bibliotecas externas.
 

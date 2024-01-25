@@ -1,6 +1,6 @@
 # vanilla-knn
 
-<!-- [![PyPI version](https://badge.fury.io/py/vanilla-knn.svg)](https://badge.fury.io/py/vanilla-knn) -->
+[![PyPI version](https://badge.fury.io/py/vanilla-knn.svg)](https://badge.fury.io/py/vanilla-knn)
 
 A simple implementation of the k-nearest neighbors (KNN) algorithm without using external libraries.
 
